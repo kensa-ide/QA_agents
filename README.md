@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Built for the <a href="https://kensa.dev">Kensa</a> TMS format (plain markdown under <code>.tms/suites/</code>), works on any project where test cases live in markdown.
+  Built for the <a href="https://kensa-ide.com">Kensa</a> TMS format (plain markdown under <code>.tms/suites/</code>), works on any project where test cases live in markdown.
 </p>
 
 <p align="center">
@@ -490,5 +490,5 @@ MIT — see [LICENSE](LICENSE).
 
 - [INSTALL.md](INSTALL.md) — install by hand (no IDE): Claude marketplace, Codex copy
 - [CHANGELOG.md](CHANGELOG.md) — version history
-- [Kensa](https://kensa.dev) — the TMS format this plugin targets
+- [Kensa](https://kensa-ide.com) — the TMS format this plugin targets
 - [Claude Code](https://docs.claude.com/claude-code) — the host environment
